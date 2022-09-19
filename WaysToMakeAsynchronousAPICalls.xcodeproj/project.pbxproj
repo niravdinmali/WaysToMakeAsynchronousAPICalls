@@ -15,6 +15,7 @@
 		599D8B7028D8AF6300D8C200 /* MapAssignTo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 599D8B6828D8AF6300D8C200 /* MapAssignTo.swift */; };
 		599D8B7128D8AF6300D8C200 /* DataTaskWithCompletion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 599D8B6928D8AF6300D8C200 /* DataTaskWithCompletion.swift */; };
 		599D8B7228D8AF6300D8C200 /* DataTaskWithCombine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 599D8B6A28D8AF6300D8C200 /* DataTaskWithCombine.swift */; };
+		599D8B7428D8B3BB00D8C200 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 599D8B7328D8B3BB00D8C200 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		599D8B6828D8AF6300D8C200 /* MapAssignTo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapAssignTo.swift; sourceTree = "<group>"; };
 		599D8B6928D8AF6300D8C200 /* DataTaskWithCompletion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataTaskWithCompletion.swift; sourceTree = "<group>"; };
 		599D8B6A28D8AF6300D8C200 /* DataTaskWithCombine.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataTaskWithCombine.swift; sourceTree = "<group>"; };
+		599D8B7328D8B3BB00D8C200 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 		599D8B2128D888D400D8C200 = {
 			isa = PBXGroup;
 			children = (
+				599D8B7328D8B3BB00D8C200 /* README.md */,
 				599D8B6128D8AF6300D8C200 /* WaysToMakeAsynchronousAPICalls */,
 				599D8B2B28D888D400D8C200 /* Products */,
 			);
@@ -218,6 +221,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				599D8B7428D8B3BB00D8C200 /* README.md in Resources */,
 				599D8B6F28D8AF6300D8C200 /* Preview Assets.xcassets in Resources */,
 				599D8B6D28D8AF6300D8C200 /* Assets.xcassets in Resources */,
 			);
